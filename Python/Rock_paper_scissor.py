@@ -1,4 +1,8 @@
-""" Rock Paper Scissors
+""" Name: Rohan Srivastava 
+    Github username: @rohansrivastava5491
+
+
+Rock Paper Scissors
 
 ----------------------------------------
 
